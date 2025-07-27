@@ -1,0 +1,4 @@
+PyMuPDF==1.22.5
+spacy==3.5.3
+regex==2023.6.3
+python -m spacy download en_core_web_sm
